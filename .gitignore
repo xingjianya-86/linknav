@@ -1,0 +1,5 @@
+dist/
+node_modules/
+*.tapp
+*.log
+.DS_Store
